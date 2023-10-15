@@ -4,12 +4,12 @@ format:
   revealjs:
     include-in-header: 
       text: |
-        <meta name="github-repo" content="chris-gaskell/fnd-for-combined"/>
-        <meta name="twitter:title" content="An Introduction with Functional Neurological Disorders"/>
-        <meta name="twitter:description" content="An Introduction to Functional Neurological Disorders"/>
-        <meta name="twitter:url" content="https://fnd-for-aps.netlify.app"/>
-        <meta name="twitter:image" content="https://github.com/chris-gaskell/fnd-for-aps/blob/master/twitter-pic.jpg?raw=true"/>
-        <meta name="twitter:image:alt" content="Title slide of An Introduction to Functional Neurological Disorders presented to North Staffs Aspiring Psychologist Group Meeting, 23/03/2023."/>
+        <meta name="github-repo" content="chris-gaskell/clinical-academic-interview"/>
+        <meta name="twitter:title" content="Clinical Academic Presentation: Dr Chris Gaskell"/>
+        <meta name="twitter:description" content="Slides to present to the panel for clinical academic job interview at North Staffordshire Combined NHS Foundation Trust on 23rd October, 2023"/>
+        <meta name="twitter:url" content="https://clinical-academic-interview.netlify.app"/>
+        <meta name="twitter:image" content="twitter-pic.jpg"/>
+        <meta name="twitter:image:alt" content="Title slide of slides show entitled 'Clinical Academic Presentation: Dr Chris Gaskell'/>
         <meta name="twitter:card" content="summary_large_image"/>
         <meta name="twitter:creator" content="@chrisgaskell92/>
         <meta name="twitter:site" content="@chrisgaskell92"/>
@@ -21,8 +21,8 @@ format:
     preload-iframes: false
     chalkboard: true
     author: "Dr. Chris Gaskell"
-    institute: "Neuropsychology <br> North Staffs Combined Healthcare"
-    footer: "FND for North Staffs Aspiring Psychologists"
+    institute: "Neuropsychology <br> North Staffordshire Combined Healthcare NHS Foundation Trust"
+    footer: "Clinical Academic Interview"
     transition: slide
     background-transition: fade
     transition-speed: slow
@@ -32,25 +32,31 @@ format:
 bibliography: references.bib
 ---
 
-## An Introduction to Working with Functional Neurological Disorders {style="font-size: 35px; text-align: center;"}
+## Clinical Academic Presentation: {background-color="#01364C" style="font-size: 35px; text-align: center;"}
+
+### Dr Chris Gaskell
+
+<br>
 
 ::: {style="text-align: center"}
 *for:*
 :::
 
-**North Staffs Aspiring Psychologist Group**
+<br>
+
+**North Staffordshire Combined Healthcare NHS**<br>Foundation Trust
+
+<br>
 
 ::: {style="text-align: center"}
-[https://fnd-for-combined.netlify.app](https://fnd-for-combined.netlify.app){.uri style="text-align: center"}
+[https://clinical-academic-interview.netlify.app](https://clinical-academic-interview.netlify.app){.uri style="text-align: center"}
 :::
-
-![](https://images.unsplash.com/photo-1607688387751-c1e95ae09a42?ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODF8fGJyYWlufGVufDB8fDB8fA%253D%253D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60){fig-align="center" width="300" height="300"}
 
 ------------------------------------------------------------------------
 
 ::: columns
-::: {.column width="50%" style="text-align: center"}
-![](https://pbs.twimg.com/profile_images/1434417640920002563/ZS62zhXl_400x400.jpg){style="border-radius: 50%; box-shadow: 0 0 30px black;" width="240"}
+::: {.column width="60%" style="text-align: center"}
+![](chris.jpg){style="border-radius: 50%; box-shadow: 0 0 30px black;" width="230"}
 
 ### Dr. Chris Gaskell
 
@@ -62,22 +68,57 @@ Neuropsychology
 North Staffordshire Combined Healthcare NHS Trust
 :::
 
-::: {.column width="50%" style="text-align: center"}
+::: {.column width="40%" style="text-align: center"}
 :::
 :::
 :::
 
 ------------------------------------------------------------------------
 
-## Disclaimers
+## Journey So Far {background-color="white"}
 
--   Emotionally pertinent areas :frowning:
+![](visual_cv.png)
 
--   Potentially distressing videos :video_camera:
+## Skills Learnt Along the Way
 
--   I'm learning too[^1] :student:
+-   Research :lab_coat:
 
-[^1]: Acknowledgements: to past colleagues Dr Mary King & Abi Methley for their prior support in developing these slides.
+    -   Competent in several quantitative methods (meta-analysis, SCED, MLM).
+
+    -   Experienced in submitting article to peer-reviewed journals.
+
+-   Data Science :nerd_face: :chart_with_upwards_trend:
+
+    -   Advanced skills in R programming environment .
+
+    -   Interested in Data Visualisations.
+
+-   Web Development :computer:
+
+    -   Developing html based websites, slides, e-books.
+
+    -   Building data driven web applications.
+
+## A Few Things to Show For It {background-color="white"}
+
+Images of recently developed Shiny App and recently published journal article.
+
+::: columns
+::: {.column width="50%"}
+![](Screenshot%202023-10-15%20at%2010.42.49.jpg)
+:::
+
+::: {.column width="50%"}
+
+![](Screenshot%202023-10-15%20at%2010.39.33.jpg)
+:::
+:::
+
+::: notes
+-   First publication in 2020.
+-   10 publications to date.
+-   Two Shiny Apps
+:::
 
 ## Contents {background-color="#01364C"} {visibility="hidden"}
 
@@ -100,10 +141,17 @@ North Staffordshire Combined Healthcare NHS Trust
 :::
 
 ::: {style="text-align: center; padding: 200px 0;"}
-# Background {background-color="#01364C"}
+# Research Ideas {background-color="#01364C"}
 :::
 
 ------------------------------------------------------------------------
+
+## Primary Work streams
+
+1.  Data driven approaches to assessing effectiveness of psychotherapy interventions.
+2.  Implementing data tools to improve efficiency and assure quality.
+3.  Analysis of routine data to build theory for neurological conditions.
+4.  Development of novel electronic interventions for neurological conditions.
 
 ::: {style="text-align: center; padding: 200px 0;"}
 # Time for Coffee
