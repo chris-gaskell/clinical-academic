@@ -218,7 +218,7 @@ North Staffordshire Combined Healthcare NHS Trust
 :::
 
 ::: {.column width="50%"}
-![](images/Screenshot%202023-10-21%20at%2021.12.07.jpg)
+[![](images/Screenshot%202023-10-21%20at%2021.12.07.jpg)](https://cog-rehab.netlify.app)
 :::
 :::
 
