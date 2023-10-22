@@ -20,7 +20,9 @@ svg:hover {
   width: 47%;
 }
 
-
+.important {
+  color: maroon;
+}
 
 :root {
 /*-- COLOR VARIABLES --*/

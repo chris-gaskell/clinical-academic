@@ -103,15 +103,13 @@ North Staffordshire Combined Healthcare NHS Trust
 
 ## A Few Things to Show For It {background-color="white"}
 
-Images of recently developed Shiny App and recently published journal article.
-
 ::: columns
 ::: {.column width="50%"}
-[![](Screenshot%202023-10-15%20at%2010.42.49.jpg)](https://chris-gaskell.shinyapps.io/reliable-change/)
+[![HTML web application for assessing for statistical change in cognitive abilities.](Screenshot%202023-10-15%20at%2010.42.49.jpg)](https://chris-gaskell.shinyapps.io/reliable-change/)
 :::
 
 ::: {.column width="50%"}
-[![](Screenshot%202023-10-15%20at%2010.39.33.jpg)](https://eprints.whiterose.ac.uk/199916/1/Epilepsia%20-%202023%20-%20Gaskell%20-%20A%20meta%E2%80%90analytic%20review%20of%20the%20effectiveness%20of%20psychological%20treatment%20of%20functional.pdf)
+[![Screenshot of recent peer-reviewed journal article, published in Epilepsia.](Screenshot%202023-10-15%20at%2010.39.33.jpg)](https://eprints.whiterose.ac.uk/199916/1/Epilepsia%20-%202023%20-%20Gaskell%20-%20A%20meta%E2%80%90analytic%20review%20of%20the%20effectiveness%20of%20psychological%20treatment%20of%20functional.pdf)
 :::
 :::
 
@@ -129,14 +127,24 @@ Images of recently developed Shiny App and recently published journal article.
 
 ## Primary Work Streams
 
-1.  Novel **Electronic Interventions** for neuropsychology.
+::: incremental
+1.  Novel **Electronic Interventions** for Neuropsychology.
 2.  **Data Driven** approaches for evaluating **Outcome Research**.
 3.  **Data Tools** (apps) to improve service efficiency and quality.
 4.  Building **Normative Data** for neurological conditions.
+:::
 
 ## Electronic Interventions
 
 ![Title slide of presentation delivered to North Staffs Combined Dragons Den 2023](images/front_slide.jpg){fig-align="left" width="356"}
+
+::: notes
+•Develop a digital self-help intervention for patients experiencing functional/dissociative symptoms.
+
+•This would be a HTML first approach, providing accessible and informative psychological intervention to a patient user group who currently do not have provisions for treatment. 
+
+•This would provide high-quality intervention that could be delivered through minimal clinician input by a junior clinician. 
+:::
 
 ## Why is this Worth Doing?
 
@@ -176,8 +184,9 @@ Images of recently developed Shiny App and recently published journal article.
 
 ::: columns
 ::: {.column width="50%"}
+-   Junior clinician.
 
--   Junior clinician - guided self-help.
+-   Guided self-help.
 
 -   Modular based intervention package.
 
@@ -203,7 +212,7 @@ Images of recently developed Shiny App and recently published journal article.
 
     -   **Expertise:** Research Networks at University of Sheffield.
 
-    -   **Evaluation:** Assistant psychologist & DClinPsy student.
+    -   **Evaluation:** Assistant Psychologist & DClinPsy student.
 
 -   **Barriers and Challenges:**
 
@@ -211,9 +220,11 @@ Images of recently developed Shiny App and recently published journal article.
 
     -   Design and Graphics.
 
+    -   Energy and Burn out.
+
 -   **Dissemination:**
 
-    -   Peer review article (e.g., Epilepsia, Seizure)
+    -   Peer review article (e.g., Epilepsia, Seizure).
 
 ::: {style="text-align: center; padding: 200px 0;"}
 # Thank you for listening {background-color="#01364C"}
