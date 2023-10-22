@@ -22,7 +22,7 @@ format:
     chalkboard: true
     author: "Dr. Chris Gaskell"
     institute: "Neuropsychology <br> North Staffordshire Combined Healthcare NHS Foundation Trust"
-    footer: "Clinical Academic Interview"
+    footer: "**Clinical Academic Interview**: Dr. Chris Gaskell"
     transition: slide
     background-transition: fade
     transition-speed: slow
@@ -61,7 +61,7 @@ bibliography: references.bib
 ### Dr. Chris Gaskell
 
 ::: {style="font-size: 24px; text-align: center"}
-Senior Clinical Psychologist
+Senior Clinical Psychologist[^1]
 
 Neuropsychology
 
@@ -73,31 +73,33 @@ North Staffordshire Combined Healthcare NHS Trust
 :::
 :::
 
+[^1]: Also an Honorary Researcher for University of Sheffield
+
 ------------------------------------------------------------------------
 
-## Journey So Far {background-color="white"}
+## Journey So Far
 
 ![](visual_cv.png)
 
 ## Skills Learnt Along the Way
 
--   Research :lab_coat:
+#### Research :lab_coat:
 
-    -   Competent in several quantitative methods (meta-analysis, SCED, MLM).
+-   Quantitative methodology (Meta-Analysis, SCED, MLM).
 
-    -   Experienced in submitting article to peer-reviewed journals.
+-   Peer-reviewed journals.
 
--   Data Science :nerd_face: :chart_with_upwards_trend:
+#### Data Science :nerd_face: :chart_with_upwards_trend:
 
-    -   Advanced skills in R programming environment .
+-   R programming environment.
 
-    -   Interested in Data Visualisations.
+-   Data Visualisations.
 
--   Web Development :computer:
+#### Web Development :computer:
 
-    -   Developing html based websites, slides, e-books.
+-   HTML Products (websites, slides, e-books).
 
-    -   Building data driven web applications.
+-   Data driven web applications.
 
 ## A Few Things to Show For It {background-color="white"}
 
@@ -105,12 +107,11 @@ Images of recently developed Shiny App and recently published journal article.
 
 ::: columns
 ::: {.column width="50%"}
-![](Screenshot%202023-10-15%20at%2010.42.49.jpg)
+[![](Screenshot%202023-10-15%20at%2010.42.49.jpg)](https://chris-gaskell.shinyapps.io/reliable-change/)
 :::
 
 ::: {.column width="50%"}
-
-![](Screenshot%202023-10-15%20at%2010.39.33.jpg)
+[![](Screenshot%202023-10-15%20at%2010.39.33.jpg)](https://eprints.whiterose.ac.uk/199916/1/Epilepsia%20-%202023%20-%20Gaskell%20-%20A%20meta%E2%80%90analytic%20review%20of%20the%20effectiveness%20of%20psychological%20treatment%20of%20functional.pdf)
 :::
 :::
 
@@ -120,41 +121,102 @@ Images of recently developed Shiny App and recently published journal article.
 -   Two Shiny Apps
 :::
 
-## Contents {background-color="#01364C"} {visibility="hidden"}
-
-::: columns
-::: {.column width="50%"}
--   Background
-
--   Symptoms & Language
-
--   Theory
-
--   Treatments
-
--   Resources
-:::
-
-::: {.column width="50%"}
-![](files/img/make-plan.jpg){fig-align="center"}
-:::
-:::
-
 ::: {style="text-align: center; padding: 200px 0;"}
 # Research Ideas {background-color="#01364C"}
 :::
 
 ------------------------------------------------------------------------
 
-## Primary Work streams
+## Primary Work Streams
 
-1.  Data driven approaches to assessing effectiveness of psychotherapy interventions.
-2.  Implementing data tools to improve efficiency and assure quality.
-3.  Analysis of routine data to build theory for neurological conditions.
-4.  Development of novel electronic interventions for neurological conditions.
+1.  Novel **Electronic Interventions** for neuropsychology.
+2.  **Data Driven** approaches for evaluating **Outcome Research**.
+3.  **Data Tools** (apps) to improve service efficiency and quality.
+4.  Building **Normative Data** for neurological conditions.
+
+## Electronic Interventions
+
+![Title slide of presentation delivered to North Staffs Combined Dragons Den 2023](images/front_slide.jpg){fig-align="left" width="356"}
+
+## Why is this Worth Doing?
+
+::: columns
+::: {.column width="50%"}
+#### Patients:
+
+-   Ease of access (any device).
+
+-   Prompt digital access.
+
+-   User-friendly interface.
+
+-   Highly acceptable and limited stigma.
+
+-   Expand language options.
+
+-   Accessibility features.
+
+-   Functionality.
+:::
+
+::: {.column width="50%"}
+#### Combined Healthcare
+
+-   Cost-effectiveness.
+
+-   Engagement rates.
+
+-   Sustainability.
+
+-   Reduce waiting periods.
+:::
+:::
+
+## What Will This Project Involve?
+
+::: columns
+::: {.column width="50%"}
+
+-   Junior clinician - guided self-help.
+
+-   Modular based intervention package.
+
+-   Accessibility features.
+
+-   Interactivity.
+:::
+
+::: {.column width="50%"}
+![](images/Screenshot%202023-10-21%20at%2021.12.07.jpg)
+:::
+:::
+
+## Considerations
+
+-   **Method:** Acceptability and Preliminary Effectiveness Design.
+
+-   **Sample:** Neuropsychology and FND clinics (Stoke & Sheffield).
+
+-   **Collaboration:**
+
+    -   **Graphic Design:** North Staffs Combined Comms Team.
+
+    -   **Expertise:** Research Networks at University of Sheffield.
+
+    -   **Evaluation:** Assistant psychologist & DClinPsy student.
+
+-   **Barriers and Challenges:**
+
+    -   Time, Time, Time.
+
+    -   Design and Graphics.
+
+-   **Dissemination:**
+
+    -   Peer review article (e.g., Epilepsia, Seizure)
 
 ::: {style="text-align: center; padding: 200px 0;"}
-# Time for Coffee
+# Thank you for listening {background-color="#01364C"}
 
-{{< li gkpgwfag trigger=loop speed=1.0 >}}
+:handshake:
 :::
