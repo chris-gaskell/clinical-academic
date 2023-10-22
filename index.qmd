@@ -160,7 +160,7 @@ Images of recently developed Shiny App and recently published journal article.
 :::
 
 ::: {.column width="50%"}
-#### Combined Healthcare
+#### Combined Healthcare:
 
 -   Cost-effectiveness.
 
