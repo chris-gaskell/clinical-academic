@@ -83,8 +83,6 @@ North Staffordshire Combined Healthcare NHS Trust
 
 ## Skills Learnt Along the Way
 
-::: columns
-::: {.column width="50%"}
 #### Research :lab_coat:
 
 -   Quantitative methodology (Meta-Analysis, SCED, MLM).
@@ -102,12 +100,6 @@ North Staffordshire Combined Healthcare NHS Trust
 -   HTML Products (websites, slides, e-books).
 
 -   Data driven web applications.
-:::
-
-::: {.column width="50%"}
-![](images/venn.jpg){fig-align="center"}
-:::
-:::
 
 #### 
 
@@ -131,6 +123,8 @@ North Staffordshire Combined Healthcare NHS Trust
 
 ## Why Do I Want This Position?
 
+::: columns
+::: {.column width="50%"}
 -   Dedicated time :stopwatch:
 
 -   Develop research skills :scientist:
@@ -140,6 +134,12 @@ North Staffordshire Combined Healthcare NHS Trust
 -   Networking & Learning from others :people_holding_hands:
 
 -   Sense of excitement and innovation :fire:
+:::
+
+::: {.column width="50%"}
+![](images/venn.jpg){fig-align="center"}
+:::
+:::
 
 ::: {style="text-align: center; padding: 200px 0;"}
 # Research Ideas {background-color="#01364C"}
