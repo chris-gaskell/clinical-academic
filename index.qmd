@@ -77,7 +77,7 @@ North Staffordshire Combined Healthcare NHS Trust
 
 ------------------------------------------------------------------------
 
-## Journey So Far
+## Journey So Far {background-color="white"}
 
 ![](visual_cv.png)
 
@@ -118,6 +118,18 @@ North Staffordshire Combined Healthcare NHS Trust
 -   10 publications to date.
 -   Two Shiny Apps
 :::
+
+## Why Do I Want This Position?
+
+-   Dedicated time :stopwatch:
+
+-   Develop research skills :scientist:
+
+-   Forge clinical-academic career :nerd_face:
+
+-   Networking & Learning from others :people_holding_hands:
+
+-   Sense of excitement and innovation :fire:
 
 ::: {style="text-align: center; padding: 200px 0;"}
 # Research Ideas {background-color="#01364C"}
