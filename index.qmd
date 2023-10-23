@@ -46,10 +46,12 @@ bibliography: references.bib
 
 **North Staffordshire Combined Healthcare NHS**<br>Foundation Trust
 
+23/10/2023
+
 <br>
 
 ::: {style="text-align: center"}
-[https://clinical-academic-interview.netlify.app](https://clinical-academic-interview.netlify.app){.uri style="text-align: center"}
+For access to these slides:<br> [https://clinical-academic-interview.netlify.app](https://clinical-academic-interview.netlify.app){.uri style="text-align: center"}
 :::
 
 ------------------------------------------------------------------------
@@ -87,13 +89,13 @@ North Staffordshire Combined Healthcare NHS Trust
 
 -   Quantitative methodology (Meta-Analysis, SCED, MLM).
 
--   Peer-reviewed journals.
+-   10 x Peer-reviewed journal articles.
 
 #### Data Science :nerd_face: :chart_with_upwards_trend:
 
 -   R programming environment.
 
--   Data Visualisations.
+-   Data Visualisation.
 
 #### Web Development :computer:
 
@@ -111,7 +113,7 @@ North Staffordshire Combined Healthcare NHS Trust
 :::
 
 ::: {.column width="50%"}
-[![Screenshot of recent peer-reviewed journal article, published in Epilepsia.](Screenshot%202023-10-15%20at%2010.39.33.jpg)](https://eprints.whiterose.ac.uk/199916/1/Epilepsia%20-%202023%20-%20Gaskell%20-%20A%20meta%E2%80%90analytic%20review%20of%20the%20effectiveness%20of%20psychological%20treatment%20of%20functional.pdf)
+[![Screenshot of most recent peer-reviewed journal article, published in Epilepsia.](Screenshot%202023-10-15%20at%2010.39.33.jpg)](https://eprints.whiterose.ac.uk/199916/1/Epilepsia%20-%202023%20-%20Gaskell%20-%20A%20meta%E2%80%90analytic%20review%20of%20the%20effectiveness%20of%20psychological%20treatment%20of%20functional.pdf)
 :::
 :::
 
@@ -125,7 +127,7 @@ North Staffordshire Combined Healthcare NHS Trust
 
 ::: columns
 ::: {.column width="50%"}
--   Dedicated time :stopwatch:
+-   Sense of excitement and innovation :fire:
 
 -   Develop research skills :scientist:
 
@@ -133,7 +135,7 @@ North Staffordshire Combined Healthcare NHS Trust
 
 -   Networking & Learning from others :people_holding_hands:
 
--   Sense of excitement and innovation :fire:
+-   Dedicated time :stopwatch:
 :::
 
 ::: {.column width="50%"}
@@ -150,10 +152,10 @@ North Staffordshire Combined Healthcare NHS Trust
 ## Primary Work Streams
 
 ::: incremental
-1.  Novel **Electronic Interventions** for Neuropsychology.
-2.  **Data Driven** approaches for evaluating **Outcome Research**.
-3.  **Data Tools** (apps) to improve service efficiency and quality.
-4.  Building **Normative Data** for neurological conditions.
+1.  Novel [**Electronic Interventions**]{style="color:#0072CE"} for Neuropsychology.
+2.  [**Data Driven**]{style="color:#0072CE"} approaches for evaluating [**Outcome Research**]{style="color:#0072CE"}.
+3.  [**Data Tools**]{style="color:#0072CE"} (apps) to improve service efficiency and quality.
+4.  Building [**Normative Data**]{style="color:#0072CE"} for neurological conditions.
 :::
 
 ## Electronic Interventions
@@ -218,7 +220,7 @@ North Staffordshire Combined Healthcare NHS Trust
 :::
 
 ::: {.column width="50%"}
-[![](images/Screenshot%202023-10-21%20at%2021.12.07.jpg)](https://cog-rehab.netlify.app)
+[![Screenshot and link to electronic intervention prototype. Cognitive rehabilitation for patients experiencing memory problems.](images/Screenshot%202023-10-21%20at%2021.12.07.jpg)](https://cog-rehab.netlify.app)
 :::
 :::
 
